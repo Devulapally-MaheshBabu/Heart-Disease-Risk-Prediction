@@ -1,0 +1,23 @@
+{
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "accuracy": 0.8167,
+  "roc_auc": 0.9364,
+  "cv_accuracy_mean": 0.7911,
+  "cv_accuracy_std": 0.0413,
+  "model_type": "RandomForestClassifier",
+  "n_estimators": 100
+}
