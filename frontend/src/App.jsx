@@ -352,11 +352,6 @@ export default function App() {
           </div>
         )}
       </main>
-
-      <footer className="footer">
-        Built with React · FastAPI · scikit-learn &nbsp;|&nbsp; Dataset: UCI
-        Cleveland Heart Disease
-      </footer>
     </div>
   );
 }
