@@ -3,6 +3,7 @@ import axios from "axios";
 import "./App.css";
 
 const API_URL = "https://heart-disease-risk-prediction-w58h.onrender.com";
+console.log("API_URL:", API_URL);
 
 const FIELDS = [
   {
